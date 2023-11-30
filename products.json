@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "K001 GREEN ARMCHAİR",
+    "price": 200,
+    "image": "img/kltk.png"
+  },
+
+  {
+    "id": 2,
+    "name": "K002 GRAY ARMCHAİR",
+    "price": 340,
+    "image": "img/gkltk.png"
+  },
+  {
+    "id": 3,
+    "name": "K003 COTTON ARMCHAİR",
+    "price": 260,
+    "image": "img/ctnkltk.png"
+  },
+  {
+    "id": 4,
+    "name": "K004 LEATHER ARMCHAİR",
+    "price": 300,
+    "image": "img/lkltk.png"
+  },
+  {
+    "id": 5,
+    "name": "K005 VELVET ARMCHAİR",
+    "price": 320,
+    "image": "img/vkltk.png"
+  },
+  {
+    "id": 6,
+    "name": "K006 BROWN ARMCHAİR",
+    "price": 275,
+    "image": "img/bkltk.png"
+  },
+  {
+    "id": 7,
+    "name": "K007 RED ARMCHAİR",
+    "price": 350,
+    "image": "img/rkltk.png"
+  },
+  {
+    "id": 8,
+    "name": "K008 DARK ARMCHAİR",
+    "price": 600,
+    "image": "img/dkltk.png"
+  },
+  {
+    "id": 9,
+    "name": "K009 PİNK ARMCHAİR",
+    "price": 400,
+    "image": "img/pkltk.png"
+  }
+]
